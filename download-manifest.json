@@ -1,0 +1,62 @@
+{
+  "name": "VideoFocus-Windows-x64.zip",
+  "size": 218019872,
+  "sha256": "b75a580e131b571491c48d24ca60cdb78570857c12309a9ce3c50c133f9192dd",
+  "parts": [
+    {
+      "name": "VideoFocus-Windows-x64.zip.part01",
+      "size": 20971520,
+      "sha256": "ba6897c889246f6675f3a79bcd95503984526b17a18c28eae3af281256de8cf8"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part02",
+      "size": 20971520,
+      "sha256": "14da495dcea98773a369d057e485188df53635d977d822234cf30b49d4083115"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part03",
+      "size": 20971520,
+      "sha256": "0bc065a8e65beea78d68c6ce97466b0e797932013444bde6aa51ea28ec7e3278"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part04",
+      "size": 20971520,
+      "sha256": "40cd89ee76bc36bc1aa1192a236afecae14d3be06f2af32c545c3b4f76388cce"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part05",
+      "size": 20971520,
+      "sha256": "62d6d66879a996a4de9abcb57ed2a9c2256302b20aa49787e5bd9419829f5a76"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part06",
+      "size": 20971520,
+      "sha256": "cf6b7caa8455362bcfc34f5253e643c71f2399c2b7fa3f87c3371c9486153d38"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part07",
+      "size": 20971520,
+      "sha256": "7be612e06177568f0ab47b02c5baa275afb1848236e62185b3c82a6bddc6130a"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part08",
+      "size": 20971520,
+      "sha256": "dbedd18bf064cc95ec09acee876cda823fcfc7568d1c90c97d464f4506beb13c"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part09",
+      "size": 20971520,
+      "sha256": "5cb5816e4991cb84aa9e15af2fa066f59de784f3ba4de1c9555dbcc130365be7"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part10",
+      "size": 20971520,
+      "sha256": "ef1d86debdec0513b492e2072490cf7a168f1c8f4ce82768876d20ac560e8e83"
+    },
+    {
+      "name": "VideoFocus-Windows-x64.zip.part11",
+      "size": 8304672,
+      "sha256": "bda10abb067ccfa075f67c4a1a6c5a00b5485b1bf8a10d579a028cc3675af186"
+    }
+  ]
+}
